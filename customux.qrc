@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/Down Arrow (White 15x5).png</file>
+        <file>Icons/Down Arrow (White 25x8).png</file>
+        <file>Icons/Down Arrow (Black 15x5).png</file>
+        <file>Icons/Down Arrow (Black 25x8).png</file>
+        <file>Textures/seamlesstexture21_1200.jpg</file>
+        <file>Textures/esse.pearlized_white.texture.360.190.jpg</file>
+    </qresource>
+</RCC>
